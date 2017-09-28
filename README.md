@@ -29,6 +29,6 @@
 
   - content is changed
 
-Contact:
-Surya Kant Bansal
+Contact:<br>
+Surya Kant Bansal<br>
 e-mail: skbansal.cse15@chitkara.edu.in
